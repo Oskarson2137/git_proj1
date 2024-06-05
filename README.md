@@ -34,7 +34,7 @@ Wtyczka po uruchomieniu wygląda następująco i podzielony jest na dwie główn
 </p>
 
 <p align="center">
-![image](https://github.com/Oskarson2137/git_proj1/assets/166397694/f56a0dc1-df70-4ca2-9543-2fcb6a8d8b34)
+  <img ![image](https://github.com/Oskarson2137/git_proj1/assets/166397694/f56a0dc1-df70-4ca2-9543-2fcb6a8d8b34) />
 </p>
 
 
