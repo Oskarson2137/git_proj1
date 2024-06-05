@@ -33,9 +33,9 @@ Wtyczka po uruchomieniu wygląda następująco i podzielony jest na dwie główn
   <img src="https://i.imgur.com/Jyh7B0k.png width="50%"" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/a/GrrB6zH width="50%"" />
-</p>
+
+![image](https://github.com/Oskarson2137/git_proj1/assets/166397694/f56a0dc1-df70-4ca2-9543-2fcb6a8d8b34)
+
 
 
 Opcje interfejsu użytkownika:
