@@ -36,6 +36,7 @@ Wtyczka po uruchomieniu wygląda następująco i podzielony jest na dwie główn
 <p align="center">
   <img src="https://i.imgur.com/a/NPZNBeF width="50%"" /> 
 </p>
+![pl2000](https://github.com/Oskarson2137/git_proj1/assets/166397694/6ed52ffd-e28b-4990-9aac-f35194dc6101)
 
 Opcje interfejsu użytkownika:
 - **1** -- wybór obliczenia przewyższenia pomiędzy punktami
