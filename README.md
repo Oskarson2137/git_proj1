@@ -34,7 +34,7 @@ Wtyczka po uruchomieniu wygląda następująco i podzielony jest na dwie główn
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/a/GrrB6zH.png width="50%"" />
+  <img src="https://i.imgur.com/a/GrrB6zH width="50%"" />
 </p>
 
 
